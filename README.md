@@ -68,9 +68,8 @@ Rows       : 2
 EUR|USD | 1.0858647781171287
 EUR|AUD | 1.546875214043799
 
-NEXT_STEP_NAME : END```
-
-
+NEXT_STEP_NAME : END
+```
 
 # Local Cluster Instructions #
 
