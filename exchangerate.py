@@ -5,7 +5,7 @@ import sys
 
 locator_host = 'localhost'
 locator_port = 10000
-prefix = 'qa_'
+prefix = 'dev_'
 
 if __name__ == '__main__':
    if 'JAVA_HOME' not in os.environ:
