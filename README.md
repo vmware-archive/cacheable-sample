@@ -1,4 +1,4 @@
-# Runtime Configurable Region Names for Spring Data GemFire @Cacheable Support #
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># Runtime Configurable Region Names for Spring Data GemFire @Cacheable Support #
 
 This project demonstrates an approach for configuring the names of the GemFire
 regions that back the @Cacheable annotation at runtime.
